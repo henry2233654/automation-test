@@ -1,0 +1,7 @@
+node_modules
+.Solutionfile.secret
+public/bundle.js.map
+.env
+.idea/
+venv/
+*.iml
